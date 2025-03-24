@@ -17,7 +17,8 @@ As a **Full Stack Developer**, I'm in love with the **MERN stack (MongoDB, Expre
 #### **Programming & Scripting:**
 
 - Python, JavaScript/TypeScript
-- SQL (PostgreSQL, MySQL)
+- Java, PHP, C++
+- SQL
 - Bash scripting
 
 #### **Backend:**
@@ -28,8 +29,8 @@ As a **Full Stack Developer**, I'm in love with the **MERN stack (MongoDB, Expre
 
 #### **Frontend:**
 
-- React.js (with Vite and Tailwind CSS)
-- HTML5, CSS3
+- React.js
+- Tailwind, Astro
 
 #### **Data Engineering:**
 
@@ -57,6 +58,6 @@ As a **Full Stack Developer**, I'm in love with the **MERN stack (MongoDB, Expre
 
 ### Let's Connect!
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/morenosaul3/)
+- **LinkedIn:** [Saúl Moreno Mancebón](https://www.linkedin.com/in/morenosaul3/)
 
 Feel free to reach out if you want to collaborate on exciting projects or talk about engineering, coding, or data!
