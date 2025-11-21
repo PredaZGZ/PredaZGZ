@@ -50,23 +50,13 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Typst](https://img.shields.io/badge/Typst-000000?style=for-the-badge&logoColor=white)
 
-
 ---
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PredaZGZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PredaZGZ&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
 
-## Current Work & Projects
-- 🎓 Teaching **Programming**, **Databases**, and **Systems** at higher education (FP Superior).
-- 📊 Developing **data-driven dashboards** as **complete applications** for financial and academic tracking.
-- 💼 Working as an **freelance developer**, creating **custom software solutions** to automate workflows and solve operational problems for **industries and small businesses**.
-- 🖥️ Maintaining a personal Arch Linux server with full redundancy, automated deployments, professional database servers (PostgreSQL, MariaDB, MongoDB), playground environments, and an integrated NAS for storage and backups.
----
 
-## 📈 Interests  
-- Software Architecture  
-- Computational Engineering  
-- Finances
-- Industrial Engineering 
-
----
 
 ## 📫 Let's Connect  
 - **LinkedIn:** [Saúl Moreno Mancebón](https://www.linkedin.com/in/morenosaul3/)  
