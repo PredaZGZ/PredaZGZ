@@ -1,12 +1,9 @@
 # Hi there, I'm Saúl Moreno! 👋  
 
-## 🧠 About Me  
-- 🎓 **Chemical Engineer** and **Software Developer** with a strong analytical and problem-solving mindset.  
-- 🧑‍🏫 **Technical Education Instructor** in higher education (FP Superior).  
-- 💻 Passionate about building structured, automated, and reproducible systems that connect data, logic, and real-world processes.  
-- 🧩 I enjoy solving **industrial** and **engineering** challenges through programming, automation, and applied computation.
-- 🔧 Outside of software, my main hobby is mechanics, where I apply the same precision and curiosity that drive my engineering work.
-
+## About Me  
+- **Software Engineer** with a strong analytical and problem-solving mindset.  
+- **Technical Education Instructor** in higher education (FP Superior).
+- **AI Engineer**
 ---
 
 ## 🛠️ Languages & Technologies  
@@ -51,11 +48,6 @@
 ![Typst](https://img.shields.io/badge/Typst-000000?style=for-the-badge&logoColor=white)
 
 ---
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PredaZGZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PredaZGZ&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
 
 
 ## 📫 Let's Connect  
