@@ -2,7 +2,6 @@
 
 ## About Me  
 - **Software Engineer** with a strong analytical and problem-solving mindset.  
-- **Technical Education Instructor** in higher education (FP Superior).
 - **AI Engineer**
 ---
 
